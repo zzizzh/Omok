@@ -86,3 +86,5 @@ don't do this, some of the UI elements of your application will remain in the
 language of the operating system.
 
 /////////////////////////////////////////////////////////////////////////////
+KNU omok contest - 6th. 
+my code is only one file 2017---.cpp
